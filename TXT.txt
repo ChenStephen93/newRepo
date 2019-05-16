@@ -1,3 +1,6 @@
 This is text . wow conflict 1
 this is another line of text. 
 and conflict 2......S
+tnhis is conflict 3
+This is text . conflict 4.  
+
