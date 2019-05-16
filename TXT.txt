@@ -5,3 +5,4 @@ tnhis is conflict 3
 This is text . conflict 4.  
 
 Added line from github. 
+Forgot to commit something, so added another line form github
